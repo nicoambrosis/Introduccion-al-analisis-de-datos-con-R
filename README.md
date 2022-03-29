@@ -1,4 +1,4 @@
-# Introduccion-al-analisis-de-datos-con-R
+# Introduction-to-data-analysis-with-R
 In this repository you will find material that has been made as part of the course ¨Introduction to data analysis with R¨ from the [Asociación Argentina de Bioinformática y Biología Computacional](https://twitter.com/a2b2c)
 
 
